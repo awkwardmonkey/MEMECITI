@@ -22,6 +22,6 @@ We're using some of the most robust and efficient tools in our development proce
   
 - **Jest**: We believe in thorough testing, and for that, we use Jest. It's a delightful JavaScript Testing Framework with a focus on simplicity and support for large web applications.
 
-[Memeland Interface] (https://github.com/awkwardmonkey/memeland-interface) relies heavily on the [Memeland SDK] (https://github.com/awkwardmonkey/memeland-sdk), which brings you the networking, Memeverse, and scripting functionalities that you'll love.
+[Memeland Interface](https://github.com/awkwardmonkey/memeland-interface) relies heavily on the [Memeland SDK](https://github.com/awkwardmonkey/memeland-sdk), which brings you the networking, Memeverse, and scripting functionalities that you'll love.
 
 We can't wait to welcome you to Memeland - Coming soon to the Memeverse!
