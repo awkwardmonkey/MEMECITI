@@ -1,6 +1,6 @@
 # Memeland: Coming Soon to the Memeverse!
 
-[https://github.com/awkwardmonkey/memeland-interface]
+[memeland-interface](https://github.com/awkwardmonkey/memeland-interface)
 
 Memeland is an upcoming sensation in the Memeverse! The development is being carried out using a robust and powerful tech stack to ensure you have an unprecedented experience in the Memeverse.
 
