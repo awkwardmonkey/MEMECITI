@@ -22,7 +22,7 @@ We're using some of the most robust and efficient tools in our development proce
   
 - **Jest**: We believe in thorough testing, and for that, we use Jest. It's a delightful JavaScript Testing Framework with a focus on simplicity and support for large web applications.
 
-**Please note:** We have made significant updates to Memeland. All prior versions designed for Windows, Mac, and Linux are no longer supported. Please transition to the newly improved [MEMECITI Interface](https://github.com/awkwardmonkey/memeciti-interface) for an enhanced web-based experience. We appreciate your understanding and support as we continue to evolve Memeland for the better.
+**Please note:** We have made significant updates to MEMECITI. All prior versions designed for Windows, Mac, and Linux are no longer supported. Please transition to the newly improved [MEMECITI Interface](https://github.com/awkwardmonkey/memeciti-interface) for an enhanced web-based experience. We appreciate your understanding and support as we continue to evolve Memeland for the better.
 
 The MEMECITI Interface relies heavily on the [MEMECITI SDK](https://github.com/awkwardmonkey/memeciti-sdk), which brings you the networking, metaverse, and scripting functionalities that you'll love.
 
