@@ -1,6 +1,6 @@
-# MEMECITI: Coming Soon to the MEMEverse!
+# MEMECITI: Coming Soon to the Memeverse!
 
-MEMECITY is an upcoming sensation in the MEMEverse! The development is being carried out using a robust and powerful tech stack to ensure you have an unprecedented experience in the MEMEverse.
+MEMECITI is an upcoming sensation in the Memeverse! The development is being carried out using a robust and powerful tech stack to ensure you have an unprecedented experience in the Memeverse.
 
 ## Tech Stack Overview:
 
@@ -26,4 +26,4 @@ We're using some of the most robust and efficient tools in our development proce
 
 The MEMECITI Interface relies heavily on the [MEMECITI SDK](https://github.com/awkwardmonkey/memeciti-sdk), which brings you the networking, metaverse, and scripting functionalities that you'll love.
 
-We can't wait to welcome you to MEMECITI - Coming soon to the MEMEverse!
+We can't wait to welcome you to MEMECITI - Coming soon to the Memeverse!
